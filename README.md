@@ -1,2 +1,0 @@
-# Bota-
-Dreamtrader bot
